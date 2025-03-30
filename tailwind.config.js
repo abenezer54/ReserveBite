@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       fontFamily: {
         architects: ["'Architects Daughter'", "cursive"],
+        roboto: ["Roboto", "sans-serif"],
       },
     },
   },
