@@ -4,8 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        architects: ["'Architects Daughter'", "cursive"],
-        roboto: ["Roboto", "sans-serif"],
+        sans: ["Roboto", "sans-serif"], // Make Roboto the default sans font
       },
     },
   },
