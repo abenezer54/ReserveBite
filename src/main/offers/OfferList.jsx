@@ -5,7 +5,8 @@ export const OfferList = () => {
     { formattedTime: "Sun, 06:00 PM - 09:30 PM", amount: 100 },
     { formattedTime: "Mon, 12:00 PM - 03:00 PM", amount: 150 },
     { formattedTime: "Fri, 07:00 PM - 10:00 PM", amount: 200 },
-    { formattedTime: "Sat, 05:00 PM - 08:00 PM", amount: 250 }, // Extra offer
+    { formattedTime: "Sat, 05:00 PM - 08:00 PM", amount: 250 },
+    { formattedTime: "Sat, 05:00 PM - 08:00 PM", amount: 250 },
   ];
 
   return (
